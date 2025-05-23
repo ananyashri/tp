@@ -1,0 +1,11 @@
+flask
+gunicorn
+os
+pandas
+datetime
+textblob
+google.generativeai
+dotenv
+transformers
+stanza
+requests
