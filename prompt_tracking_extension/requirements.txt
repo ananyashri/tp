@@ -1,11 +1,9 @@
 flask
 gunicorn
-os
 pandas
-datetime
 textblob
 google.generativeai
-dotenv
+python-dotenv
 transformers
 stanza
 requests
